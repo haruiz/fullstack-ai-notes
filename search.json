@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Fullstack-AI Course",
     "section": "",
-    "text": "Preface\nThis website is a compilation of notes, tutorials, and code examples used in the “Fullstack AI” course offered at Autonoma de Occidente University in Cali, Colombia. The course is part of the AI Specialization Program and aims to provide a comprehensive introduction to the design and development of AI systems, covering both theoretical and practical aspects. The course is designed to be accessible to students with varying backgrounds, including those without any prior experience in AI.\nThis course was created and developed by Professor Henry A. Ruiz, PhD, who currently works as a research scientist at Texas A&M University. The course is based on the author’s experience in developing AI systems for a wide range of applications, including agriculture, healthcare, IoT, and robotics. The course is designed to provide students with a solid foundation in AI concepts and techniques, as well as practical experience in developing AI systems using popular tools and libraries.",
+    "text": "Preface\nThis book is a collection of notes, tutorials, and examples designed to support a full-stack artificial intelligence course. The material provides a comprehensive introduction to the end-to-end development of AI systems, with a strong emphasis on practical implementation. It is structured to be accessible to learners from diverse academic and professional backgrounds, including those with no prior experience in artificial intelligence.\nThis course was created and developed by Professor Henry A. Ruiz, PhD, who currently works as a research scientist at Texas A&M University. The course is based on the author’s experience in developing AI systems for a wide range of applications, including agriculture, healthcare, IoT, and robotics. The course is designed to provide students with a solid foundation in AI concepts and techniques, as well as practical experience in developing AI systems using popular tools and libraries.",
     "crumbs": [
       "Preface"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#slides",
     "title": "Fullstack-AI Course",
     "section": "Slides",
-    "text": "Slides\n\nCourse Overview\nSyllabus\nFinal Project\nML and Generative AI Foundations\nLLM Applications and design patterns\nSetting up Machine Learning Projects\nInfrastructure and tooling",
+    "text": "Slides\n\nCourse Overview\nSyllabus",
     "crumbs": [
       "Preface"
     ]
